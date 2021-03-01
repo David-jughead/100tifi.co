@@ -21,7 +21,7 @@ module.exports = {
             }
         ]
     },
-    pligins: [
+    plugins: [
         new HtmlWebpackPlugin([
             {
                 inject: true,
